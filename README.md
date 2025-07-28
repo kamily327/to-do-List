@@ -23,7 +23,7 @@ Este projeto foi desenvolvido com o intuito de praticar e aprimorar habilidades 
 
 ## 🔗 Acesse o site
 
-[🔗 Clique aqui para ver o projeto online]()  
+[🔗 Clique aqui para ver o projeto online](https://to-do-list-theta-eight-87.vercel.app/)  
 
 
 ## 📁 Como usar localmente
