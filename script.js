@@ -9,7 +9,7 @@ btn.addEventListener("click", function () {
     const itemTarefa = document.createElement("div");
     itemTarefa.innerHTML = `
 
-<div class="w-full px-3 mt-[20px] mb-[0px]">
+<div class="w-full px-4 mt-[20px] mb-[0px]">
     <div class="containerTarefa p-[20px] flex justify-between items-center mx-auto rounded-lg max-w-[1000px] bg-[#222] hover:bg-[#22222286] gap-1 transition duration-300 ease-in-out">
         <p class="tarefa text-[1.1rem]  ">${entrada.value}</p> 
         <div class ="botoes">
