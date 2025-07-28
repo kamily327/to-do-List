@@ -30,4 +30,4 @@ Este projeto foi desenvolvido com o intuito de praticar e aprimorar habilidades 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/kamily327/to-do-list.git
+git clone https://github.com/kamily327/to-do-List.git
